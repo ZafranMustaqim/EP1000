@@ -1,6 +1,6 @@
 body{
     background-color: #eee;
-    font-family: Helvetica, Arial, sans-serif;
+    font-family: "Source Code Pro Black", sans-serif;
 }
 
 a{
@@ -20,7 +20,7 @@ h1, h2, h3{
 }
 
 #header {
-    background-color: #42f554;
+    background-color: #123ca3;
     color: white;
     text-align: center;
 }
